@@ -1,0 +1,3 @@
+/home/mariely/.local/bin/transfer2elk
+/home/mariely/.local/bin/transferSource
+/home/mariely/.local/lib/python3.8/site-packages/transfer-2.3.3-py3.8.egg
